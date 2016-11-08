@@ -7,7 +7,7 @@ The program has the ability to resume downloads if interrupted. To resume an int
 To be able to use this program the user needs to have a Google API key with YouTube Data API v3 enabled. 
 
 ## Options
-`main.py` accepts command line arguments and options. Information about these can be found with the help of 
+`main.py` accepts command line arguments and options. Information about these can be found with the help of<br> 
 `python3 main.py -h`, however, they are listed below.
  ```
 usage: main.py [-h] [-o DIR] [-u FILE] [-f FORMAT] URL
