@@ -47,4 +47,4 @@ optional arguments:
     `./setup.sh`
 - Execute the python program with appropriate options<br>
 	`python3 main.py -o path_to_dir -u path_to_file -f format_of_videos url_of_playlist_page`
-- Enter a Google API key with YouTube Data API v3 enabled
+- Enter a Google API key with YouTube Data API v3 enabled when one is asked for.
