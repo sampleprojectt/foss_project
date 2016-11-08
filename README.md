@@ -7,7 +7,8 @@ The program has the ability to resume downloads if interrupted. To resume an int
 To be able to use this program the user needs to have a Google API key with YouTube Data API v3 enabled. 
 
 ## Options
-`main.py` accepts command line arguments and options. Information about these can be found with the help of `python3 main.py -h`, however, they are listed below.
+`main.py` accepts command line arguments and options. Information about these can be found with the help of 
+`python3 main.py -h`, however, they are listed below.
  ```
 usage: main.py [-h] [-o DIR] [-u FILE] [-f FORMAT] URL
 
@@ -46,4 +47,4 @@ optional arguments:
     `./setup.sh`
 - Execute the python program with appropriate options<br>
 	`python3 main.py -o path_to_dir -u path_to_file -f format_of_videos url_of_playlist_page`
-- Enter a Google API key with YouTube Data API v3 enabled and the download will begin
+- Enter a Google API key with YouTube Data API v3 enabled
